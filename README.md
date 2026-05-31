@@ -36,6 +36,10 @@ User Input
 → Progress Tracking
 → Personalized Revision Recommendations
 
+## Architecture
+
+![Architecture](architecture.jpg)
+
 ### AI Integration Planning
 - Researched LLM-based quiz generation.
 - Proposed Bloom's Taxonomy based question generation.
